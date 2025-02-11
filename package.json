@@ -1,0 +1,15 @@
+{
+  "name": "silencemortals",
+  "version": "1.0.0",
+  "description": "classroom-silence-incentive",
+  "main": "script.js",
+  "scripts": {
+    "test": "run",
+    "start": "http-server -p 3000"
+  },
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  },
+  "author": "chillestCapybara",
+  "license": "ISC"
+}
